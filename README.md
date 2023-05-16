@@ -23,4 +23,4 @@ Implement the 2048 game like in this [LAYOUT LINK](https://play2048.co/)
   - JavaScript
 
 
-[PREVIEW LINK](https://<your_account>.github.io/<repo_name>/)
+[PREVIEW LINK](https://illia-kots.github.io/2048_game_js/)
