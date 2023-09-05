@@ -1,6 +1,6 @@
-# 2048 Game
+# Digit Puzzle Game
 
-Implement the 2048 game like in this [LAYOUT LINK](https://play2048.co/)
+Implement the Digit Puzzle Game like in this [LAYOUT LINK](https://play2048.co/)
 
 **Project task:**
  1. The game field is 4 x 4
@@ -23,4 +23,4 @@ Implement the 2048 game like in this [LAYOUT LINK](https://play2048.co/)
   - JavaScript
 
 
-[PREVIEW LINK](https://illia-kots.github.io/2048_game_js/)
+[PREVIEW LINK](https://illia-kots.github.io/digit_puzzle_game/)
